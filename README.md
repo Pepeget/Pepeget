@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pepeget
-- 👀 I’m interested in forsen.
+- 👀 I’m interested in nothing.
 - 🌱 I’m currently learning CS50.
 - 💞️ I’m looking to collaborate on rhythm games/
 - 📫 How to reach me:
